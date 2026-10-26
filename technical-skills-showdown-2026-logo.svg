@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+<title id="title">Technical Skills Showdown 2026</title>
+<desc id="desc">Metropolitan blue and red technical competition logo.</desc>
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#174E97"/><stop offset="1" stop-color="#0D2E5B"/></linearGradient>
+</defs>
+<g transform="translate(20 28)">
+  <path d="M100 0 L174 42 L174 126 L100 168 L26 126 L26 42 Z" fill="none" stroke="#144A92" stroke-width="7"/>
+  <path d="M100 19 L155 50 L155 117 L100 149 L45 117 L45 50 Z" fill="url(#blue)"/>
+  <path d="M108 35 L73 91 L98 91 L86 131 L128 75 L103 75 Z" fill="#fff"/>
+  <path d="M23 81 H4 M177 81 H196" stroke="#CB0816" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="12" cy="81" r="5" fill="#CB0816"/><circle cx="188" cy="81" r="5" fill="#CB0816"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+  <text x="240" y="74" font-size="24" letter-spacing="7" fill="#144A92">METROPOLITAN PRESENTS</text>
+  <text x="236" y="137" font-size="57" letter-spacing="1" fill="#144A92">TECHNICAL SKILLS</text>
+  <text x="236" y="204" font-size="62" letter-spacing="1" fill="#CB0816">SHOWDOWN</text>
+  <rect x="687" y="222" width="158" height="52" rx="7" fill="#144A92"/>
+  <text x="766" y="258" text-anchor="middle" font-size="31" fill="#fff" letter-spacing="4">2026</text>
+  <path d="M238 224 H665" stroke="#144A92" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>
